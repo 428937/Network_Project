@@ -24,7 +24,7 @@ The infrastructure is built on a **Cisco 3560 Multilayer Switch** (Core) and **C
 | **VLAN 90** | HR | Recruitment & Personnel Management |
 
 
-## 🔧 Technical Configuration
+## Technical Configuration
 ### 1. Inter-VLAN Routing (Layer 3 Switching)
 Inter-departmental communication is managed via **Switch Virtual Interfaces (SVI)** on the 3650 Multilayer Switch. This ensures that internal traffic (e.g., Coding to Servers) stays within the high-speed core.
 
