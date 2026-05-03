@@ -1,8 +1,8 @@
 # Network_Project
 
-# Shadow Studios: Enterprise Network Infrastructure for Game Development
+## Shadow Studios: Enterprise Network Infrastructure for Game Development
 
-A high-performance, secure, and scalable enterprise network design for **Shadow Studios**, a multi-departmental game development house. Designed and simulated using **Cisco Packet Tracer**.
+A high-performance, secure, and scalable enterprise network design for Shadow Studios, a multi-departmental game development house. Designed and simulated using Cisco Packet Tracer.
 
 ## Project Overview
 Shadow Studios requires a robust network capable of handling massive asset transfers, real-time collaboration, and secure data management. This project implements a hierarchical **Core-Access** architecture to ensure low latency for developers and high security for management and server resources.
