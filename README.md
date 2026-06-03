@@ -4,7 +4,7 @@
 
 A high-performance, secure, and scalable enterprise network design for Router Studios, a multi-departmental game development house. Designed and simulated using Cisco Packet Tracer.
 
-### Project Overview
+## Project Overview
 Router Studios requires a robust network capable of handling massive asset transfers, real-time collaboration, and secure data management. This project implements a hierarchical **Core-Access** architecture to ensure low latency for developers and high security for management and server resources.
 
 ## Network Architecture & Topology
