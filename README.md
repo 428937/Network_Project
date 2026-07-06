@@ -7,7 +7,7 @@ A high-performance, secure, and scalable enterprise network design for Router St
 ## Project Overview
 Router Studios requires a robust network capable of handling massive asset transfers, real-time collaboration, and secure data management. This project implements a hierarchical **Core-Access** architecture to ensure low latency for developers and high security for management and server resources.
 
-## Network Architecture & Topology
+### Network Architecture & Topology
 The infrastructure is built on a **Cisco 3560 Multilayer Switch** (Core) and **Cisco 2911 Router** (WAN Gate), utilizing **VLAN segmentation** to isolate departmental traffic.
 
 ### Departmental Segmentation (VLANs)
