@@ -1,6 +1,6 @@
 # Network_Project
 
-### Router Studios: Enterprise Network Infrastructure for Game Development
+## Router Studios: Enterprise Network Infrastructure for Game Development
 
 A high-performance, secure, and scalable enterprise network design for Router Studios, a multi-departmental game development house. Designed and simulated using Cisco Packet Tracer.
 
